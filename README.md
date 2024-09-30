@@ -1,5 +1,4 @@
 # Content-Based Movie Recommendation System
-![api](https://camo.githubusercontent.com/fc5b0758b4038138f3e51ad2ef0daf81213f1265bc98fcd23efafe5de95d86e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4150492d544d44422d666362613033) ![python](https://camo.githubusercontent.com/c875d2837e61170a253895c4ddce2b9700a63c6cf9167eae864fde13cc535a02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d332e382d626c756576696f6c6574)
 
 #### Link to the application: [click her👆🏻](https://movierecommenderbyjyotirmaya.streamlit.app/) 
 ![mdfile](https://github.com/user-attachments/assets/fb7abeb3-52d3-45b6-8337-6b502dd5472f)
